@@ -1,0 +1,6 @@
+framework module Pods_alamofire__kingfisher__Demo {
+  umbrella header "Pods-alamofire--kingfisher--Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
